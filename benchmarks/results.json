@@ -1,361 +1,361 @@
 {
   "metadata": {
-    "timestamp": "2026-06-29T10:17:26.666Z",
-    "runtime": "Node.js v22.23.0",
+    "timestamp": "2026-07-06T09:51:20.781Z",
+    "runtime": "Node.js v22.23.1",
     "compiler": "TypeScript 5.6",
     "os": "linux"
   },
   "patterns": {
     "evaluator-optimizer": {
       "production": {
-        "opsPerSec": 18256895,
-        "avgTimeNs": 57,
-        "samples": 17673174
+        "opsPerSec": 18237693,
+        "avgTimeNs": 56,
+        "samples": 17749326
       }
     },
     "multi-agent": {
       "conceptual": {
-        "opsPerSec": 11419154,
-        "avgTimeNs": 97,
-        "samples": 10259995
+        "opsPerSec": 11737244,
+        "avgTimeNs": 92,
+        "samples": 10850546
       },
       "production": {
-        "opsPerSec": 13202628,
-        "avgTimeNs": 78,
-        "samples": 12902498
+        "opsPerSec": 12929067,
+        "avgTimeNs": 79,
+        "samples": 12659686
       }
     },
     "plan-and-execute": {
       "production": {
-        "opsPerSec": 13251109,
-        "avgTimeNs": 77,
-        "samples": 12934320
+        "opsPerSec": 13599243,
+        "avgTimeNs": 75,
+        "samples": 13342217
       }
     },
     "react-agent": {
       "conceptual": {
-        "opsPerSec": 14168230,
+        "opsPerSec": 14302259,
         "avgTimeNs": 72,
-        "samples": 13799589
+        "samples": 13953586
       },
       "production": {
-        "opsPerSec": 13860498,
-        "avgTimeNs": 85,
-        "samples": 11712746
+        "opsPerSec": 13946110,
+        "avgTimeNs": 84,
+        "samples": 11843512
       }
     },
     "tool-use": {
       "conceptual": {
-        "opsPerSec": 11172900,
-        "avgTimeNs": 102,
-        "samples": 9782021
+        "opsPerSec": 11992201,
+        "avgTimeNs": 89,
+        "samples": 11198800
       },
       "production": {
-        "opsPerSec": 9994015,
-        "avgTimeNs": 117,
-        "samples": 8514164
+        "opsPerSec": 8938279,
+        "avgTimeNs": 120,
+        "samples": 8343135
       }
     },
     "chain-of-responsibility": {
       "conceptual": {
-        "opsPerSec": 12789191,
+        "opsPerSec": 12696283,
         "avgTimeNs": 80,
-        "samples": 12452427
+        "samples": 12439651
       },
       "production": {
-        "opsPerSec": 14952133,
+        "opsPerSec": 14897745,
         "avgTimeNs": 69,
-        "samples": 14592712
+        "samples": 14564792
       }
     },
     "command": {
       "conceptual": {
-        "opsPerSec": 14920148,
+        "opsPerSec": 14840468,
         "avgTimeNs": 69,
-        "samples": 14555058
+        "samples": 14513815
       },
       "production": {
-        "opsPerSec": 11456288,
-        "avgTimeNs": 127,
-        "samples": 7865351
+        "opsPerSec": 10846642,
+        "avgTimeNs": 107,
+        "samples": 9329109
       }
     },
     "iterator": {
       "conceptual": {
-        "opsPerSec": 13700439,
-        "avgTimeNs": 75,
-        "samples": 13422054
+        "opsPerSec": 13726630,
+        "avgTimeNs": 74,
+        "samples": 13448540
       },
       "production": {
-        "opsPerSec": 13263398,
+        "opsPerSec": 13330495,
         "avgTimeNs": 77,
-        "samples": 12920505
+        "samples": 12993801
       }
     },
     "mediator": {
       "conceptual": {
-        "opsPerSec": 13755828,
+        "opsPerSec": 13855946,
         "avgTimeNs": 74,
-        "samples": 13475682
+        "samples": 13429470
       },
       "production": {
-        "opsPerSec": 13256456,
-        "avgTimeNs": 78,
-        "samples": 12877846
+        "opsPerSec": 13335282,
+        "avgTimeNs": 77,
+        "samples": 13002753
       }
     },
     "memento": {
       "conceptual": {
-        "opsPerSec": 15159361,
+        "opsPerSec": 15044236,
         "avgTimeNs": 68,
-        "samples": 14623503
+        "samples": 14707167
       },
       "production": {
-        "opsPerSec": 1933542,
-        "avgTimeNs": 548,
-        "samples": 1824075
+        "opsPerSec": 1971956,
+        "avgTimeNs": 536,
+        "samples": 1866594
       }
     },
     "observer": {
       "conceptual": {
-        "opsPerSec": 14897360,
-        "avgTimeNs": 70,
-        "samples": 14286619
+        "opsPerSec": 14851647,
+        "avgTimeNs": 71,
+        "samples": 14157798
       },
       "production": {
-        "opsPerSec": 11219197,
-        "avgTimeNs": 97,
-        "samples": 10359675
+        "opsPerSec": 10912277,
+        "avgTimeNs": 98,
+        "samples": 10202996
       }
     },
     "state": {
       "conceptual": {
-        "opsPerSec": 14690464,
+        "opsPerSec": 14780498,
         "avgTimeNs": 69,
-        "samples": 14389872
+        "samples": 14485354
       },
       "production": {
-        "opsPerSec": 14901618,
+        "opsPerSec": 14878375,
         "avgTimeNs": 69,
-        "samples": 14590887
+        "samples": 14554477
       }
     },
     "strategy": {
       "conceptual": {
-        "opsPerSec": 14870508,
-        "avgTimeNs": 69,
-        "samples": 14566713
+        "opsPerSec": 14938011,
+        "avgTimeNs": 68,
+        "samples": 14641638
       },
       "production": {
-        "opsPerSec": 14744269,
-        "avgTimeNs": 69,
-        "samples": 14427139
+        "opsPerSec": 14391803,
+        "avgTimeNs": 71,
+        "samples": 14066797
       }
     },
     "template-method": {
       "conceptual": {
-        "opsPerSec": 14910835,
+        "opsPerSec": 14908437,
         "avgTimeNs": 69,
-        "samples": 14577504
+        "samples": 14593173
       },
       "production": {
-        "opsPerSec": 14507707,
-        "avgTimeNs": 71,
-        "samples": 14079845
+        "opsPerSec": 14582787,
+        "avgTimeNs": 70,
+        "samples": 14229231
       }
     },
     "visitor": {
       "conceptual": {
-        "opsPerSec": 13898751,
-        "avgTimeNs": 73,
-        "samples": 13646638
+        "opsPerSec": 13802094,
+        "avgTimeNs": 74,
+        "samples": 13525803
       },
       "production": {
-        "opsPerSec": 13462634,
-        "avgTimeNs": 76,
-        "samples": 13185131
+        "opsPerSec": 13555926,
+        "avgTimeNs": 75,
+        "samples": 13287554
       }
     },
     "mutex": {
       "conceptual": {
-        "opsPerSec": 14318964,
-        "avgTimeNs": 81,
-        "samples": 12393902
+        "opsPerSec": 14107676,
+        "avgTimeNs": 80,
+        "samples": 12574942
       },
       "production": {
-        "opsPerSec": 13464816,
+        "opsPerSec": 13477257,
         "avgTimeNs": 76,
-        "samples": 13197418
+        "samples": 13197450
       }
     },
     "producer-consumer": {
       "conceptual": {
-        "opsPerSec": 13104969,
-        "avgTimeNs": 78,
-        "samples": 12756502
+        "opsPerSec": 13329386,
+        "avgTimeNs": 77,
+        "samples": 12996050
       }
     },
     "semaphore": {
       "conceptual": {
-        "opsPerSec": 12967318,
-        "avgTimeNs": 83,
-        "samples": 12016831
+        "opsPerSec": 12828710,
+        "avgTimeNs": 86,
+        "samples": 11598241
       },
       "production": {
-        "opsPerSec": 13469323,
-        "avgTimeNs": 84,
-        "samples": 11897254
+        "opsPerSec": 13641386,
+        "avgTimeNs": 79,
+        "samples": 12688928
       }
     },
     "thread-pool": {
       "conceptual": {
-        "opsPerSec": 13868913,
-        "avgTimeNs": 82,
-        "samples": 12267246
+        "opsPerSec": 13484392,
+        "avgTimeNs": 83,
+        "samples": 12091537
       }
     },
     "abstract-factory": {
       "conceptual": {
-        "opsPerSec": 14905348,
-        "avgTimeNs": 69,
-        "samples": 14593513
+        "opsPerSec": 14967195,
+        "avgTimeNs": 68,
+        "samples": 14664476
       },
       "production": {
-        "opsPerSec": 14891013,
+        "opsPerSec": 14744658,
         "avgTimeNs": 69,
-        "samples": 14549249
+        "samples": 14413146
       }
     },
     "builder": {
       "conceptual": {
-        "opsPerSec": 14868027,
-        "avgTimeNs": 69,
-        "samples": 14564020
+        "opsPerSec": 14910579,
+        "avgTimeNs": 68,
+        "samples": 14610744
       },
       "production": {
-        "opsPerSec": 13802124,
-        "avgTimeNs": 85,
-        "samples": 11798217
+        "opsPerSec": 13854015,
+        "avgTimeNs": 81,
+        "samples": 12329046
       }
     },
     "factory-method": {
       "conceptual": {
-        "opsPerSec": 14953546,
+        "opsPerSec": 14935036,
         "avgTimeNs": 68,
-        "samples": 14639860
+        "samples": 14618817
       },
       "production": {
-        "opsPerSec": 15129984,
+        "opsPerSec": 15003772,
         "avgTimeNs": 68,
-        "samples": 14809570
+        "samples": 14691602
       }
     },
     "prototype": {
       "conceptual": {
-        "opsPerSec": 13102391,
-        "avgTimeNs": 78,
-        "samples": 12844000
+        "opsPerSec": 13852089,
+        "avgTimeNs": 74,
+        "samples": 13596871
       },
       "production": {
-        "opsPerSec": 3860497,
-        "avgTimeNs": 306,
-        "samples": 3272690
+        "opsPerSec": 3878789,
+        "avgTimeNs": 302,
+        "samples": 3313018
       }
     },
     "singleton": {
       "conceptual": {
-        "opsPerSec": 14981475,
+        "opsPerSec": 14976953,
         "avgTimeNs": 68,
-        "samples": 14673769
+        "samples": 14677195
       },
       "production": {
-        "opsPerSec": 13865325,
-        "avgTimeNs": 87,
-        "samples": 11544476
+        "opsPerSec": 13890403,
+        "avgTimeNs": 85,
+        "samples": 11831992
       }
     },
     "adapter": {
       "conceptual": {
-        "opsPerSec": 14919553,
+        "opsPerSec": 15014377,
         "avgTimeNs": 68,
-        "samples": 14608139
+        "samples": 14718051
       },
       "production": {
-        "opsPerSec": 15001814,
+        "opsPerSec": 15006115,
         "avgTimeNs": 68,
-        "samples": 14700314
+        "samples": 14688663
       }
     },
     "bridge": {
       "conceptual": {
-        "opsPerSec": 14241942,
+        "opsPerSec": 14228209,
         "avgTimeNs": 72,
-        "samples": 13979897
+        "samples": 13977108
       },
       "production": {
-        "opsPerSec": 12449906,
-        "avgTimeNs": 82,
-        "samples": 12227497
+        "opsPerSec": 12505535,
+        "avgTimeNs": 81,
+        "samples": 12290448
       }
     },
     "composite": {
       "conceptual": {
-        "opsPerSec": 14943735,
+        "opsPerSec": 14941968,
         "avgTimeNs": 68,
-        "samples": 14603763
+        "samples": 14625458
       },
       "production": {
-        "opsPerSec": 13915288,
-        "avgTimeNs": 86,
-        "samples": 11684045
+        "opsPerSec": 13790968,
+        "avgTimeNs": 84,
+        "samples": 11858136
       }
     },
     "decorator": {
       "conceptual": {
-        "opsPerSec": 14140105,
-        "avgTimeNs": 72,
-        "samples": 13877864
+        "opsPerSec": 13937777,
+        "avgTimeNs": 73,
+        "samples": 13669823
       },
       "production": {
-        "opsPerSec": 11203114,
-        "avgTimeNs": 91,
-        "samples": 10936273
+        "opsPerSec": 11085997,
+        "avgTimeNs": 92,
+        "samples": 10844906
       }
     },
     "facade": {
       "conceptual": {
-        "opsPerSec": 13510344,
-        "avgTimeNs": 76,
-        "samples": 13145114
+        "opsPerSec": 13409379,
+        "avgTimeNs": 77,
+        "samples": 13045807
       },
       "production": {
-        "opsPerSec": 14985616,
+        "opsPerSec": 14949871,
         "avgTimeNs": 68,
-        "samples": 14660601
+        "samples": 14633927
       }
     },
     "flyweight": {
       "conceptual": {
-        "opsPerSec": 13748051,
-        "avgTimeNs": 74,
-        "samples": 13468556
+        "opsPerSec": 13777275,
+        "avgTimeNs": 75,
+        "samples": 13325969
       },
       "production": {
-        "opsPerSec": 11255180,
-        "avgTimeNs": 97,
-        "samples": 10286155
+        "opsPerSec": 11824480,
+        "avgTimeNs": 93,
+        "samples": 10710131
       }
     },
     "proxy": {
       "conceptual": {
-        "opsPerSec": 13461129,
-        "avgTimeNs": 76,
-        "samples": 13202987
+        "opsPerSec": 14040078,
+        "avgTimeNs": 73,
+        "samples": 13789723
       },
       "production": {
-        "opsPerSec": 10582882,
-        "avgTimeNs": 96,
-        "samples": 10369277
+        "opsPerSec": 11218543,
+        "avgTimeNs": 91,
+        "samples": 10952929
       }
     }
   }
